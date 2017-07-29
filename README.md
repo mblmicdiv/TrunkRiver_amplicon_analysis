@@ -1,6 +1,6 @@
 # TrunkRiver_amplicon_analysis
 
-K hold:
+K hole:
 https://rawgit.com/mblmicdiv/TrunkRiver_amplicon_analysis/master/K_hole.html
 
 A hole:
